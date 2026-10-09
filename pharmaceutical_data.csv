@@ -1,0 +1,11 @@
+Entity_ID,Topic,Target_Name,Class,Metric_Value,Year
+1,Drug_Repurposing,Metformin,Antidiabetic,72.5,2022
+2,Drug_Repurposing,Thalidomide,Immunomodulatory,85.0,2023
+3,Drug_Repurposing,Sildenafil,Cardiovascular,91.2,2024
+4,Drug_Repurposing,Hydroxychloroquine,Antimalarial,45.3,2025
+5,Drug_Repurposing,Aspirin,Antiplatelet,68.0,2026
+6,Antimicrobial_Resistance,E_coli,Fluoroquinolones,55.4,2022
+7,Antimicrobial_Resistance,K_pneumoniae,Cephalosporins,64.2,2023
+8,Antimicrobial_Resistance,S_aureus,Methicillin,78.9,2024
+9,Antimicrobial_Resistance,P_aeruginosa,Carbapenems,42.1,2025
+10,Antimicrobial_Resistance,A_baumannii,Multidrug_Resistant,88.5,2026
